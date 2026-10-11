@@ -49,7 +49,7 @@ Student-Performance-Analyzer/
 3. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Mohit1112-bit/Student-Performer-analyzer.git
    ```
 
 4. Open the project folder:
